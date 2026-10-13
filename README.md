@@ -1,6 +1,6 @@
 # 🚀 Airflow ISS Pipeline | Домашнее задание
 
-**Автор:** [rodionmirov](https://github.com/rodionmirov)  
+**Автор:** [Михаил Батаев](https://github.com/rodionmirov)  
 **Курс:** OTUS Data Engineer  
 **Тема:** Apache Airflow. Сложные пайплайны. Подготовка и установка на расписание DAG выгрузки данных из источников.
 
