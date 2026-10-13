@@ -29,7 +29,6 @@ airflow-iss-homework/
 ```bash
 git clone https://github.com/rodionmirov/airflow-iss-homework.git
 cd airflow-iss-homework
-<<<<<<< HEAD
 mkdir -p logs
 =======
 ```
@@ -194,4 +193,4 @@ docker compose exec -T analytics-db psql -U student -d analytics < sql/init.sql
   ```bash
   touch screenshots/.gitkeep plugins/.gitkeep config/.gitkeep
   ```
->>>>>>> 4019e69 (1)
+
